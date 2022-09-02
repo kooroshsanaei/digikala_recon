@@ -31,7 +31,8 @@ DIGIKALA SUBDOMAINS =>
 	https://selleracademy.digikala.com	 
 	https://sirius.digikala.com 		 
 	https://about.digikala.com 			 
-	https://careers.digikala.com		 
+	https://careers.digikala.com
+	https://seller.digikala.com/
 
 
 
