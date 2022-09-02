@@ -1,0 +1,77 @@
+Whois=> 
+	Noavaran Fan Avazeh (Digikala)
+	
+	DNS Data digikala.com
+		IPs of digikala.com (A and AAAA records)
+		185.143.233.2 (201 connected with this item)
+		185.188.104.10
+	
+	NS records of digikala.com
+		ns1.arvancloud.net (543 connected with this item)
+		ns2.arvancloud.net (544 connected with this item)
+		185.143.233.254 (533 connected with this item)
+		185.143.234.254 (530 connected with this item)
+	
+	
+	MX records of digikala.com
+		mx01.digikala.com (2 connected with this item)
+		mx02.digikala.com (1 connected with this item)
+		81.90.154.162 (2 connected with this item)
+	
+
+DIGIKALA SUBDOMAINS => 
+	
+	https://blog.digikala.com			 
+	https://api.digikala.com 			 
+	https://schat.digikala.com 			 
+	https://seller-app.digikala.com 	 
+	https://www.digikala.com			 
+	https://pr.digikala.com 			 
+	https://bpm.digikala.com			 
+	https://selleracademy.digikala.com	 
+	https://sirius.digikala.com 		 
+	https://about.digikala.com 			 
+	https://careers.digikala.com		 
+
+
+
+
+
+
+
+
+
+185.188.104.0/24
+185.188.105.0/24
+185.188.106.0/24
+185.188.107.0/24
+185.188.104.10
+185.188.106.10
+185.188.106.11
+
+
+
+
+#censys 
+	79.175.191.45
+	79.175.191.42
+	5.160.234.2:10973  URI=> /remote/login?lang=en  | title SSL VPN Remote Access Web Portal 
+	5.160.234.14:10973 URI=> /remote/login?lang=en	| title SSL VPN Remote Access Web Portal
+	93.113.225.246 
+
+#shodan (Pro)
+	185.172.2.106 Location: http://digikala.com
+	185.172.3.114 Location: http://digikala.com
+
+#SubDomains
+	185.188.104.10
+	185.188.105.11
+	185.188.104.12
+	185.188.105.11
+	79.175.191.45
+	185.188.104.13
+	185.188.105.10
+	185.188.105.12
+	185.188.105.10
+	185.188.104.12
+#Create By Uz3er t.me/zerodey
