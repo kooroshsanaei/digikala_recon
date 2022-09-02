@@ -33,6 +33,8 @@ DIGIKALA SUBDOMAINS =>
 	https://about.digikala.com 			 
 	https://careers.digikala.com
 	https://seller.digikala.com/
+	https://engineering.digikala.com
+
 
 
 
